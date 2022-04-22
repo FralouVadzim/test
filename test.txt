@@ -4,3 +4,4 @@
 4 str
 test branch
 branch2
+branch2_new_line working dir
