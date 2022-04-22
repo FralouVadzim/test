@@ -5,3 +5,4 @@
 test branch
 branch2
 branch2_new_line working dir
+branch2_github_line2
